@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [JBK offline Website Automation Testing ]">
+  <test name="JBK offline Website Test cases(failed)">
+    <classes>
+      <class name="com.jbksitetest.qa.testcases.LoginPageTest">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="loginTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.jbksitetest.qa.testcases.LoginPageTest -->
+    </classes>
+  </test> <!-- JBK offline Website Test cases(failed) -->
+</suite> <!-- Failed suite [JBK offline Website Automation Testing ] -->

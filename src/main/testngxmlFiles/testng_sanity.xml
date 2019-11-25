@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="JBK offline Website Automation Testing ">
+<Listeners>
+	<Listener class-name ="com\jbksitetest\qa\extentReportsListener\ExtentReporterNG"></Listener>
+</Listeners>
+
+  <test  name="JBK offline Website Test cases">
+    <classes>
+      <class name="com.jbksitetest.qa.testcases.LoginPageTest"/>
+     <!--  <class name="com.jbksitetest.qa.testcases.DashboardPageTest"/>
+      <class name="com.jbksitetest.qa.testcases.UsersPageTest"/>
+      <class name="com.jbksitetest.qa.testcases.AddNewUsersPageTest"/>
+ -->    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,7 @@
+com\jbksitetest\qa\testcases\OperatorsPageTest.class
+com\jbksitetest\qa\testcases\LoginPageTest.class
+com\jbksitetest\qa\testcases\DashboardPageTest.class
+com\jbksitetest\qa\testcases\LogOutTest.class
+com\jbksitetest\qa\testcases\RegistrationPageTest.class
+com\jbksitetest\qa\testcases\UsersPageTest.class
+com\jbksitetest\qa\testcases\AddNewUsersPageTest.class

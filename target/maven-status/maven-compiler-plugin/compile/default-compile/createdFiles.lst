@@ -1,0 +1,11 @@
+com\jbksitetest\qa\pages\UsersPage.class
+com\jbksitetest\qa\pages\RegistrationPage.class
+com\jbksitetest\qa\pages\LoginPage.class
+com\jbksitetest\qa\base\TestBase.class
+com\jbksitetest\qa\pages\AddNewUsersPage.class
+com\jbksitetest\qa\pages\DashboardPage.class
+com\jbksitetest\qa\extentReportsListener\ExtentReporterNG.class
+com\jbksitetest\qa\pages\OperatorsPage.class
+com\jbksitetest\qa\util\SeleniumListener.class
+com\jbksitetest\qa\util\TestUtil.class
+com\jbksitetest\qa\pages\LogOutPage.class
